@@ -1,0 +1,39 @@
+h1 {
+	text-align: center;
+}
+* {
+	font-family: verdana;
+}
+
+body {
+	background: #eee;
+    text-align: center;
+}
+.header{
+    background:white;
+    margin-top: 0;
+    
+}
+.container{
+    width:800px;
+    margin: 0 auto;
+}
+
+.post {
+    background: white;
+}
+img{ 
+    width:800px;
+    height:800px;
+}
+span{
+    float:right;
+    color:grey;
+}
+p{
+    text-align: left;
+}
+h3{
+    text-align: left;
+}
+
