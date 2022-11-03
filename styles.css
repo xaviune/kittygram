@@ -15,7 +15,7 @@ body {
     
 }
 .container{
-    width:800px;
+    width:600px;
     margin: 0 auto;
 }
 
@@ -23,8 +23,8 @@ body {
     background: white;
 }
 img{ 
-    width:800px;
-    height:800px;
+    width:600px;
+    height:400px;
 }
 span{
     float:right;
